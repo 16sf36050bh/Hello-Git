@@ -12,4 +12,4 @@ console.log(sayHello('Ben'));
 
 console.log('Saad is dumb');
 
-console.log('Guille is Spainish');
+console.log('Guille is Spanish')
