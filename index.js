@@ -9,3 +9,7 @@ function sayHello(name){
 }
 
 console.log(sayHello('Ben'));
+
+console.log('Saad is dumb');
+
+console.log('Guille is Spainish');
